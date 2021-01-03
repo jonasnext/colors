@@ -226,7 +226,221 @@ import SwiftUI
 // srgb
 //
 
-// …
+// darktitanium
+// lighttitanium
+// ceramic
+// gold
+// navyblue
+// ivory
+
+// 85 78 64
+// 194 173 149
+// 244 244 244
+// 187 144 97
+// 17 68 94
+// 232 226 217
+
+// pale pink
+// white
+// black
+// evergreen
+// mango
+// slate
+
+238 212 205
+242 242 242
+26 26 26
+86 96 73
+255 187 84
+56 56 54
+
+// warm gray
+// watermelon
+// red
+// orange
+// clementine
+// apricot
+
+190 179 167
+200 63 62
+227 41 47
+254 100 12
+254 103 72
+251 116 79
+
+// peach
+// papaya
+// kumquat
+// light orange
+// mellow yellow
+// lemon cream
+
+228 125 94
+255 131 64
+253 136 80
+254 148 0
+245 243 186
+255 234 125
+
+// yellow
+// pollen
+// canary yellow
+// flash light
+// flash
+// green
+
+231 203 15
+254 208 90
+255 222 68
+246 236 0
+225 242 33
+139 225 42
+
+// spearmint
+// mint
+// beryl
+// sea foam
+// turquoise
+// light blue
+
+131 233 140
+172 236 156
+211 242 188
+211 242 219
+158 213 205
+104 196 220
+
+// surf blue
+// blue
+// royal blue
+// cerulean
+// lilac
+// mist blue
+
+24 132 184
+27 181 250
+99 173 236
+148 197 231
+183 163 223
+178 185 166
+
+// azure
+// northern blue
+// storm gray
+// cactus
+// pacific green
+// blue cobalt
+
+134 152 160
+114 155 156
+100 150 151
+107 137 129
+3 126 156
+71 125 157
+
+// alaskan blue
+// dark teal
+// blue horizon
+// deep navy
+// linen blue
+// denim blue
+
+98 109 132
+50 115 146
+32 102 157
+91 113 152
+85 107 148
+90 131 167
+
+// midnight blue
+// ocean blue
+// delft blue
+// indigo
+// purple
+// ultra violet
+
+66 77 117
+114 135 198
+88 118 190
+88 99 164
+151 124 247
+113 85 189
+
+// lavender gray
+// lavender
+// pink sand
+// light pink
+// vintage rose
+// grapefruit
+
+134 133 163
+178 154 166
+253 193 168
+243 175 170
+243 171 164
+254 176 139
+
+// pink
+// electric pink
+// pink citrus
+// neon pink
+// dragon fruit
+// hibiscus
+
+254 89 99
+254 77 81
+239 80 71
+253 59 57
+243 74 126
+252 31 88
+
+// pomegranate
+// plum
+// rose red
+// camellia
+// flamingo
+// camel
+
+223 40 93
+147 65 75
+184 40 68
+199 69 67
+209 130 107
+181 142 97
+
+// walnut
+// stone
+// antique white
+// cream
+// soft white
+// pebble
+
+174 133 99
+174 153 128
+213 181 147
+253 227 182
+221 208 186
+173 156 141
+
+// cocoa
+// coastal gray
+// dark olive
+// khaki
+// pine green
+// cyprus green
+
+154 142 138
+129 110 96
+140 140 118
+139 125 87
+91 125 101
+97 111 88
+
+// rosegold
+// yellowgold
+
+// 236 165 132
+// 212 166 124
 
 let darktitanium = Color(.displayP3, red: 84 / 255, green: 78 / 255, blue: 66 / 255, opacity: 1)
 let lighttitanium = Color(.displayP3, red: 191 / 255, green: 174 / 255, blue: 152 / 255, opacity: 1)
