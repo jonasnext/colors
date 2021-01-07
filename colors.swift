@@ -1,49 +1,5 @@
 import SwiftUI
 
-//
-// String
-//
-
-// returns a new string formed from the receiver by either removing characters from the start,
-// or by prepending as many occurrences as necessary of a given pad string
-
-extension String {
-    func leftPadding(toLength newLength: Int, withPad padString: String) -> String {
-        guard count < newLength else {
-            return String(suffix(newLength))
-        }
-
-        return String(repeating: padString, count: newLength - count).appending(self)
-    }
-}
-
-// test
-
-// assert("xyz".leftPadding(toLength: 2, withPad: "0") == "yz")
-// assert("1".leftPadding(toLength: 2, withPad: "0") == "01")
-
-//
-// Color
-//
-
-// convert p3/… color space to srgb color, and return string in base 16
-
-extension Color {
-    func srgb16(alpha: Bool = false) -> String? {
-        guard let color = cgColor,
-            let colorSpace = CGColorSpace(name: CGColorSpace.sRGB),
-            let srgb = color.converted(to: colorSpace, intent: .defaultIntent, options: nil),
-            let components = srgb.components else { return nil }
-
-        let c16 = components.map { String(Int(($0*255).rounded()), radix: 16).leftPadding(toLength: 2, withPad: "0") }
-
-        let result = alpha ? "\(c16[0])\(c16[1])\(c16[2])\(c16[3])" : "\(c16[0])\(c16[1])\(c16[2])"
-        return result
-    }
-}
-
-// colors
-
 extension Color {
     static let darktitanium = Color(.displayP3, red: 84 / 255, green: 78 / 255, blue: 66 / 255, opacity: 1)
     static let lighttitanium = Color(.displayP3, red: 191 / 255, green: 174 / 255, blue: 152 / 255, opacity: 1)
