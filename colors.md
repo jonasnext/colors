@@ -884,3 +884,32 @@ rose gold
 
 yellow gold
 #d4a67c
+
+
+##
+
+clementine|vintage rose
+
+lemon cream|beryl
+
+beryl|khaki
+
+lemon cream|alaskan blue
+
+yellow|turquoise
+
+flash|pink sand
+
+#
+
+orange|storm gray
+
+dark olive|pink
+
+neon pink|coastal gray
+
+green|linen blue
+
+orange|coastal gray
+
+light orange|cactus
