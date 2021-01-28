@@ -889,27 +889,39 @@ yellow gold
 ##
 
 clementine|vintage rose
+#fe6748 | #f4aba4
 
 lemon cream|beryl
+#ffe97d | #d3f2bc
 
 beryl|khaki
+#d3f2bc | #8b7e57
 
 lemon cream|alaskan blue
+#ffe97d | #626c84
 
 yellow|turquoise
+#e7cb0f | #9dd5cd
 
 flash|pink sand
+#e1f221 | #fdc1a8
 
 #
 
 orange|storm gray
+#649697 | #fe640c
 
 dark olive|pink
+#8c8c76 | #fe5963
 
 neon pink|coastal gray
+#fd3b3a | #816d60
 
 green|linen blue
+#8be12a | #566b94
 
 orange|coastal gray
+#649697 | #816d60
 
 light orange|cactus
+#fd9400 | #6b8981
