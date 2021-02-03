@@ -911,7 +911,7 @@ flash|pink sand
 #
 
 orange|storm gray
-#649697 | #fe640c
+#fe640c | #649697
 
 dark olive|pink
 #8c8c76 | #fe5963
@@ -923,7 +923,7 @@ green|linen blue
 #8be12a | #566b94
 
 orange|coastal gray
-#649697 | #816d60
+#fe640c | #816d60
 
 light orange|cactus
 #fd9400 | #6b8981
